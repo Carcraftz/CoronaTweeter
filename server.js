@@ -72,6 +72,7 @@ setInterval(checktime => {
             console.log(tweet);
           }
         });
+        //JSON isn't ideal as a database, but this will be updating only once per hour, so it should be fine
         config.lastcases = caseint;
         config.lastdeaths = deathint;
         config.lastrecovered = recoveredint;
