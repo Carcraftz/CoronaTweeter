@@ -79,7 +79,7 @@ setInterval(checktime => {
         fs.writeFileSync("config.json", JSON.stringify(config));
       });
   }
-  //resets run
+  //resets run variable to allow new posts again
   if (minute == 5) {
     run = false;
   }
