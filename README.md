@@ -18,4 +18,3 @@ node server.js
 ## Finished Product!:
 
 ![Screenshot](https://media.discordapp.net/attachments/728300471927963740/745348481274740806/unknown.png?width=408&height=105)
-
