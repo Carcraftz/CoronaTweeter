@@ -1,5 +1,5 @@
 # CoronaTweeter
-Tweets Coronavirus stats every hour from worldometer. Made in 30 minutes out of boredom 
+Tweets Coronavirus stats every hour from worldometer.
 
 
 # How to configure:
